@@ -1,0 +1,11 @@
+[package]
+name = "rust_cgi_email"
+version = "0.1.0"
+authors = ["myridia"]
+edition = "2021"
+
+[dependencies]
+cgi = "*"
+serde   = { version = "*", features = ["derive"] }
+serde_urlencoded = "*"
+lettre = "*"
