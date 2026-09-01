@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <circle cx="100" cy="100" r="95" fill="#b7410e"/>
+  <circle cx="100" cy="100" r="80" fill="none" stroke="#fff" stroke-width="3"/>
+  <rect x="55" y="60" width="90" height="65" rx="4" fill="#fff" opacity="0.9"/>
+  <path d="M55 60 L100 100 L145 60" fill="none" stroke="#b7410e" stroke-width="3" stroke-linejoin="round"/>
+  <text x="100" y="150" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#fff" font-weight="bold">RUST</text>
+</svg>
